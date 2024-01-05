@@ -1,6 +1,6 @@
 {
 "geo":"RU,UA",
-"view":"https://www.google.ru/",
-"view2":"https://www.google.ru/",
+"view":"",
+"view2":"https://meadow-land.info/d8YfpLzq?",
 "appsChecker":"0"
 }
